@@ -1,4 +1,4 @@
-#ArcUI Beta Release Notes
+# ArcUI Beta Release Notes
 We are excited to present to you Version 1.0 Beta 1 of this app 🥳
 
 These Features are planned to come with the upcoming releases (some features are still here but we added them anyway). Anyways, Here is the Roadmap:
